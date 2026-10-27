@@ -1,0 +1,10 @@
+# Dépendances et configuration Node.js (à générer localement)
+node_modules/
+package.json
+package-lock.json
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+.env
+
